@@ -2,7 +2,7 @@
 let simulationData = null;
 let originalData = null;
 let dataue = null;
-const semestre = 'SExemple.json';
+const semestre = 'S4.json';
 
 // Load data on page load
 document.addEventListener('DOMContentLoaded', function() {

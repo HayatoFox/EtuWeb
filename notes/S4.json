@@ -1,0 +1,438 @@
+{
+    "admission": "",
+    "average": "1.525",
+    "position": "",
+    "grades": [
+        {
+            "name": "Code ECUE TBRAE401 : SAÉ 4.Cyber.01 - Sécuriser un système d'information",
+            "teacher": "Karima Boudaoud",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Support",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°2 - Soutenance",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°3 - Rapport",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAE4HP : Heures projet",
+            "teacher": "Pas de prof",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAE4PF : PORTFOLIO - Démarche portfolio",
+            "teacher": "Emmanuelle Bouche",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Version intermédiaire (S3)",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°2 - Version finale",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAE4ST : STAGE.Cyber : Stage",
+            "teacher": "Florence Nicolau",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR401 : R4.01  - Infrastructures de sécurité",
+            "teacher": "Guillaume Urvoy-Keller",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR402 : R4.02  - Transmissions avancées",
+            "teacher": "Nicolas Fortino",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR403 : R4.03  - Physique des télécoms",
+            "teacher": "Cyril Luxey",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - DS Luxey",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°2 - TP",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°3 - séance",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°4 - DS Fortino",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR404 : R4.04 - Réseaux cellulaires",
+            "teacher": "Frederic Payan",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR405 : R4.05 - Automatisation des tâches d'administration",
+            "teacher": "Michel Gautero",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR406 : R4.06 - Anglais professionnel 2",
+            "teacher": "Caroline Mougel",
+            "average": "19 (calculée)",
+            "grades": [
+                [
+                    "Séance N°1 - Oral (technical project)",
+                    [
+                        "19",
+                        "1"
+                    ]
+                ],
+                [
+                    "Séance N°2 - D.S.",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": ""
+        },
+        {
+            "name": "Code ECUE TBRAR407 : R4.07  Expression-Culture-Communication professionnelles",
+            "teacher": "Emmanuelle Bouche",
+            "average": "12.5 (calculée)",
+            "grades": [
+                [
+                    "Séance N°1 - Soutenance pro - Premières slides",
+                    [
+                        "16",
+                        "0.5"
+                    ]
+                ],
+                [
+                    "Séance N°2 - Rapport d'alternance - Présentation entreprise",
+                    [
+                        "9",
+                        "0.5"
+                    ]
+                ],
+                [
+                    "Séance N°3 - Soutenance pro - Première partie du rapport",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": ""
+        },
+        {
+            "name": "Code ECUE TBRAR408 : R4.08 - Projet Personnel et Professionnel",
+            "teacher": "Emmanuelle Bouche",
+            "average": "11",
+            "grades": [
+                [
+                    "Séance N°1 - DS du 01/04/2025",
+                    [
+                        "11",
+                        "1"
+                    ]
+                ]
+            ],
+            "empty": ""
+        },
+        {
+            "name": "Code ECUE TBRAR409 : R4.Cyber.09 - Cyber Sécurité des réseaux LAN",
+            "teacher": "Laurent Kwiatkowski",
+            "average": "9 (calculée)",
+            "grades": [
+                [
+                    "Séance N°1 - Evaluation théorique",
+                    [
+                        "9",
+                        "1"
+                    ]
+                ],
+                [
+                    "Séance N°2 - Conception TP en Cybersécurité",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": ""
+        },
+        {
+            "name": "Code ECUE TBRAR410 : R4.Cyber.10 -  Cyber : Cryptographie",
+            "teacher": "Florence Nicolau",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR411 : R4.Cyber.11 - Sécurisation de services réseaux",
+            "teacher": "Karima Boudaoud",
+            "average": "16.533",
+            "grades": [
+                [
+                    "Séance N°1 - Examen",
+                    [
+                        "13.6",
+                        "1"
+                    ]
+                ],
+                [
+                    "Séance N°2 - TP01",
+                    [
+                        "18",
+                        "1"
+                    ]
+                ],
+                [
+                    "Séance N°3 - TP02",
+                    [
+                        "18",
+                        "1"
+                    ]
+                ]
+            ],
+            "empty": ""
+        },
+        {
+            "name": "Code ECUE TBRAR412 : R4.Local - IOM :  Réseaux sans fil pour l'IoT",
+            "teacher": "Nicolas Fortino",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR413 : R4.Local -  DevCloud: Introduction aux microservices",
+            "teacher": "Michel Gautero",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBRAR414 : R4.Local - IA et cybersécurité : Objets Connectés",
+            "teacher": "Ghattas Akkad",
+            "average": "17",
+            "grades": [
+                [
+                    "Séance N°1 - Note Finale",
+                    [
+                        "17",
+                        "1"
+                    ]
+                ]
+            ],
+            "empty": ""
+        },
+        {
+            "name": "Code ECUE TBRS4APA : Pénalité absence S4",
+            "teacher": "Florence Nicolau",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code ECUE TBXS4BON : Bonus S4",
+            "teacher": "Marie-Agnes Peraldi",
+            "average": "Pas de moyenne disponible",
+            "grades": [
+                [
+                    "Séance N°1 - Séance N°1",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ]
+            ],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU31 : UE31 Administrer les réseaux et l'Internet",
+            "teacher": "Pas de prof",
+            "average": "13.231",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU32 : UE32 Connecter les entreprises et les usagers",
+            "teacher": "Pas de prof",
+            "average": "12.456",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU33 : UE33 Créer des outils  et applications informatiques",
+            "teacher": "Pas de prof",
+            "average": "13.895",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU34 : UE34 Administrer un système d'information sécurisé",
+            "teacher": "Pas de prof",
+            "average": "15.551",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU35 : UE35 Surveiller un système d'information sécurisé",
+            "teacher": "Pas de prof",
+            "average": "15.352",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU41 : UE41 Administrer les réseaux et l'Internet",
+            "teacher": "Pas de prof",
+            "average": "1.483",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU42 : UE42 Connecter les entreprises et les usagers",
+            "teacher": "Pas de prof",
+            "average": "0.678",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU43 : UE43 Créer des outils et applications informatiques",
+            "teacher": "Pas de prof",
+            "average": "1.07",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU44 : UE44 Administrer un système d'information sécurisé",
+            "teacher": "Pas de prof",
+            "average": "2.589",
+            "grades": [],
+            "empty": "empty"
+        },
+        {
+            "name": "Code UE TBRAU45 : UE45  Surveiller un système d'information sécurisé",
+            "teacher": "Pas de prof",
+            "average": "3.121",
+            "grades": [],
+            "empty": "empty"
+        }
+    ]
+}

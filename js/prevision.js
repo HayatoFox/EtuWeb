@@ -1,4 +1,4 @@
-const semestre = 'SExemple.json';
+const semestre = 'S4.json';
 
 fetch(`../notes/${semestre}`)
     .then(response => response.json())
