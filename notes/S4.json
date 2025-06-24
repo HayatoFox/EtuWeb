@@ -1,6 +1,6 @@
 {
     "admission": "",
-    "average": "1.525",
+    "average": "2.457",
     "position": "",
     "grades": [
         {
@@ -46,7 +46,7 @@
         {
             "name": "Code ECUE TBRAE4PF : PORTFOLIO - Démarche portfolio",
             "teacher": "Emmanuelle Bouche",
-            "average": "Pas de moyenne disponible",
+            "average": "20 (calculée)",
             "grades": [
                 [
                     "Séance N°1 - Version intermédiaire (S3)",
@@ -57,11 +57,12 @@
                 [
                     "Séance N°2 - Version finale",
                     [
-                        "Résultats non publiés"
+                        "20",
+                        "2.5"
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAE4ST : STAGE.Cyber : Stage",
@@ -97,7 +98,13 @@
             "average": "Pas de moyenne disponible",
             "grades": [
                 [
-                    "Séance N°1 - Séance N°1",
+                    "Séance N°1 - TP",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°2 - DS",
                     [
                         "Résultats non publiés"
                     ]
@@ -189,7 +196,7 @@
         {
             "name": "Code ECUE TBRAR407 : R4.07  Expression-Culture-Communication professionnelles",
             "teacher": "Emmanuelle Bouche",
-            "average": "12.5 (calculée)",
+            "average": "15.5",
             "grades": [
                 [
                     "Séance N°1 - Soutenance pro - Premières slides",
@@ -208,7 +215,8 @@
                 [
                     "Séance N°3 - Soutenance pro - Première partie du rapport",
                     [
-                        "Résultats non publiés"
+                        "17",
+                        "2"
                     ]
                 ]
             ],
@@ -217,12 +225,19 @@
         {
             "name": "Code ECUE TBRAR408 : R4.08 - Projet Personnel et Professionnel",
             "teacher": "Emmanuelle Bouche",
-            "average": "11",
+            "average": "13",
             "grades": [
                 [
                     "Séance N°1 - DS du 01/04/2025",
                     [
                         "11",
+                        "1"
+                    ]
+                ],
+                [
+                    "Séance N°2 - TP noté (évaluation d'un rapport d'alternance)",
+                    [
+                        "15",
                         "1"
                     ]
                 ]
@@ -402,35 +417,35 @@
         {
             "name": "Code UE TBRAU41 : UE41 Administrer les réseaux et l'Internet",
             "teacher": "Pas de prof",
-            "average": "1.483",
+            "average": "2.667",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU42 : UE42 Connecter les entreprises et les usagers",
             "teacher": "Pas de prof",
-            "average": "0.678",
+            "average": "1.441",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU43 : UE43 Créer des outils et applications informatiques",
             "teacher": "Pas de prof",
-            "average": "1.07",
+            "average": "2.275",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU44 : UE44 Administrer un système d'information sécurisé",
             "teacher": "Pas de prof",
-            "average": "2.589",
+            "average": "3.299",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU45 : UE45  Surveiller un système d'information sécurisé",
             "teacher": "Pas de prof",
-            "average": "3.121",
+            "average": "3.975",
             "grades": [],
             "empty": "empty"
         }
