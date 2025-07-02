@@ -1,33 +1,36 @@
 {
     "admission": "",
-    "average": "2.457",
+    "average": "6.714",
     "position": "",
     "grades": [
         {
             "name": "Code ECUE TBRAE401 : SAÉ 4.Cyber.01 - Sécuriser un système d'information",
             "teacher": "Karima Boudaoud",
-            "average": "Pas de moyenne disponible",
+            "average": "14.714",
             "grades": [
                 [
                     "Séance N°1 - Support",
                     [
-                        "Résultats non publiés"
+                        "16",
+                        "2"
                     ]
                 ],
                 [
                     "Séance N°2 - Soutenance",
                     [
-                        "Résultats non publiés"
+                        "15",
+                        "3"
                     ]
                 ],
                 [
                     "Séance N°3 - Rapport",
                     [
-                        "Résultats non publiés"
+                        "13",
+                        "2"
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAE4HP : Heures projet",
@@ -46,12 +49,13 @@
         {
             "name": "Code ECUE TBRAE4PF : PORTFOLIO - Démarche portfolio",
             "teacher": "Emmanuelle Bouche",
-            "average": "20 (calculée)",
+            "average": "16.667",
             "grades": [
                 [
                     "Séance N°1 - Version intermédiaire (S3)",
                     [
-                        "Résultats non publiés"
+                        "0",
+                        "0.5"
                     ]
                 ],
                 [
@@ -81,46 +85,57 @@
         {
             "name": "Code ECUE TBRAR401 : R4.01  - Infrastructures de sécurité",
             "teacher": "Guillaume Urvoy-Keller",
-            "average": "Pas de moyenne disponible",
+            "average": "15.362",
             "grades": [
                 [
-                    "Séance N°1 - Séance N°1",
+                    "Séance N°1 - Examen",
                     [
-                        "Résultats non publiés"
+                        "14.5",
+                        "0.7"
+                    ]
+                ],
+                [
+                    "Séance N°2 - TP",
+                    [
+                        "17.375",
+                        "0.3"
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAR402 : R4.02  - Transmissions avancées",
             "teacher": "Nicolas Fortino",
-            "average": "Pas de moyenne disponible",
+            "average": "13.333",
             "grades": [
                 [
                     "Séance N°1 - TP",
                     [
-                        "Résultats non publiés"
+                        "15",
+                        "1"
                     ]
                 ],
                 [
                     "Séance N°2 - DS",
                     [
-                        "Résultats non publiés"
+                        "12.5",
+                        "2"
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAR403 : R4.03  - Physique des télécoms",
             "teacher": "Cyril Luxey",
-            "average": "Pas de moyenne disponible",
+            "average": "7.5 (calculée)",
             "grades": [
                 [
                     "Séance N°1 - DS Luxey",
                     [
-                        "Résultats non publiés"
+                        "7.5",
+                        "0.3"
                     ]
                 ],
                 [
@@ -142,7 +157,7 @@
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAR404 : R4.04 - Réseaux cellulaires",
@@ -367,7 +382,7 @@
         },
         {
             "name": "Code ECUE TBXS4BON : Bonus S4",
-            "teacher": "Marie-Agnes Peraldi",
+            "teacher": "Pas de prof",
             "average": "Pas de moyenne disponible",
             "grades": [
                 [
@@ -417,35 +432,35 @@
         {
             "name": "Code UE TBRAU41 : UE41 Administrer les réseaux et l'Internet",
             "teacher": "Pas de prof",
-            "average": "2.667",
+            "average": "6.385",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU42 : UE42 Connecter les entreprises et les usagers",
             "teacher": "Pas de prof",
-            "average": "1.441",
+            "average": "6.515",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU43 : UE43 Créer des outils et applications informatiques",
             "teacher": "Pas de prof",
-            "average": "2.275",
+            "average": "3.824",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU44 : UE44 Administrer un système d'information sécurisé",
             "teacher": "Pas de prof",
-            "average": "3.299",
+            "average": "8.308",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU45 : UE45  Surveiller un système d'information sécurisé",
             "teacher": "Pas de prof",
-            "average": "3.975",
+            "average": "10.012",
             "grades": [],
             "empty": "empty"
         }
