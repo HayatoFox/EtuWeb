@@ -1,6 +1,6 @@
 {
     "admission": "",
-    "average": "6.714",
+    "average": "7.087",
     "position": "",
     "grades": [
         {
@@ -340,16 +340,17 @@
         {
             "name": "Code ECUE TBRAR413 : R4.Local -  DevCloud: Introduction aux microservices",
             "teacher": "Michel Gautero",
-            "average": "Pas de moyenne disponible",
+            "average": "14",
             "grades": [
                 [
                     "Séance N°1 - Séance N°1",
                     [
-                        "Résultats non publiés"
+                        "14",
+                        "1"
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAR414 : R4.Local - IA et cybersécurité : Objets Connectés",
@@ -446,7 +447,7 @@
         {
             "name": "Code UE TBRAU43 : UE43 Créer des outils et applications informatiques",
             "teacher": "Pas de prof",
-            "average": "3.824",
+            "average": "5.789",
             "grades": [],
             "empty": "empty"
         },
