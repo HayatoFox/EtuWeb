@@ -1,6 +1,6 @@
 {
     "admission": "",
-    "average": "7.087",
+    "average": "7.826",
     "position": "",
     "grades": [
         {
@@ -162,16 +162,23 @@
         {
             "name": "Code ECUE TBRAR404 : R4.04 - Réseaux cellulaires",
             "teacher": "Frederic Payan",
-            "average": "Pas de moyenne disponible",
+            "average": "14.125 (calculée)",
             "grades": [
                 [
-                    "Séance N°1 - Séance N°1",
+                    "Séance N°1 - Théorique (QCM + Exercice)",
                     [
                         "Résultats non publiés"
                     ]
+                ],
+                [
+                    "Séance N°2 - Moyenne TP",
+                    [
+                        "14.125",
+                        "0.4"
+                    ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAR405 : R4.05 - Automatisation des tâches d'administration",
@@ -179,7 +186,19 @@
             "average": "Pas de moyenne disponible",
             "grades": [
                 [
-                    "Séance N°1 - Séance N°1",
+                    "Séance N°1 - TP",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°2 - Exposé",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°3 - DS",
                     [
                         "Résultats non publiés"
                     ]
@@ -190,7 +209,7 @@
         {
             "name": "Code ECUE TBRAR406 : R4.06 - Anglais professionnel 2",
             "teacher": "Caroline Mougel",
-            "average": "19 (calculée)",
+            "average": "17.35",
             "grades": [
                 [
                     "Séance N°1 - Oral (technical project)",
@@ -202,7 +221,8 @@
                 [
                     "Séance N°2 - D.S.",
                     [
-                        "Résultats non publiés"
+                        "15.7",
+                        "1"
                     ]
                 ]
             ],
@@ -283,16 +303,17 @@
         {
             "name": "Code ECUE TBRAR410 : R4.Cyber.10 -  Cyber : Cryptographie",
             "teacher": "Florence Nicolau",
-            "average": "Pas de moyenne disponible",
+            "average": "10.75",
             "grades": [
                 [
                     "Séance N°1 - Séance N°1",
                     [
-                        "Résultats non publiés"
+                        "10.75",
+                        "1"
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAR411 : R4.Cyber.11 - Sécurisation de services réseaux",
@@ -433,28 +454,28 @@
         {
             "name": "Code UE TBRAU41 : UE41 Administrer les réseaux et l'Internet",
             "teacher": "Pas de prof",
-            "average": "6.385",
+            "average": "7.084",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU42 : UE42 Connecter les entreprises et les usagers",
             "teacher": "Pas de prof",
-            "average": "6.515",
+            "average": "7.317",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU43 : UE43 Créer des outils et applications informatiques",
             "teacher": "Pas de prof",
-            "average": "5.789",
+            "average": "6.064",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU44 : UE44 Administrer un système d'information sécurisé",
             "teacher": "Pas de prof",
-            "average": "8.308",
+            "average": "10.137",
             "grades": [],
             "empty": "empty"
         },
