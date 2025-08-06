@@ -1,6 +1,6 @@
 {
     "admission": "",
-    "average": "7.826",
+    "average": "9.121",
     "position": "",
     "grades": [
         {
@@ -129,7 +129,7 @@
         {
             "name": "Code ECUE TBRAR403 : R4.03  - Physique des télécoms",
             "teacher": "Cyril Luxey",
-            "average": "7.5 (calculée)",
+            "average": "10.25 (calculée)",
             "grades": [
                 [
                     "Séance N°1 - DS Luxey",
@@ -153,7 +153,8 @@
                 [
                     "Séance N°4 - DS Fortino",
                     [
-                        "Résultats non publiés"
+                        "13",
+                        "0.3"
                     ]
                 ]
             ],
@@ -162,12 +163,13 @@
         {
             "name": "Code ECUE TBRAR404 : R4.04 - Réseaux cellulaires",
             "teacher": "Frederic Payan",
-            "average": "14.125 (calculée)",
+            "average": "11.5",
             "grades": [
                 [
                     "Séance N°1 - Théorique (QCM + Exercice)",
                     [
-                        "Résultats non publiés"
+                        "9.75",
+                        "0.6"
                     ]
                 ],
                 [
@@ -183,28 +185,31 @@
         {
             "name": "Code ECUE TBRAR405 : R4.05 - Automatisation des tâches d'administration",
             "teacher": "Michel Gautero",
-            "average": "Pas de moyenne disponible",
+            "average": "13.333",
             "grades": [
                 [
                     "Séance N°1 - TP",
                     [
-                        "Résultats non publiés"
+                        "13.5",
+                        "1"
                     ]
                 ],
                 [
                     "Séance N°2 - Exposé",
                     [
-                        "Résultats non publiés"
+                        "15.5",
+                        "1"
                     ]
                 ],
                 [
                     "Séance N°3 - DS",
                     [
-                        "Résultats non publiés"
+                        "11",
+                        "1"
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAR406 : R4.06 - Anglais professionnel 2",
@@ -282,7 +287,7 @@
         {
             "name": "Code ECUE TBRAR409 : R4.Cyber.09 - Cyber Sécurité des réseaux LAN",
             "teacher": "Laurent Kwiatkowski",
-            "average": "9 (calculée)",
+            "average": "11",
             "grades": [
                 [
                     "Séance N°1 - Evaluation théorique",
@@ -294,7 +299,8 @@
                 [
                     "Séance N°2 - Conception TP en Cybersécurité",
                     [
-                        "Résultats non publiés"
+                        "13",
+                        "1"
                     ]
                 ]
             ],
@@ -347,16 +353,29 @@
         {
             "name": "Code ECUE TBRAR412 : R4.Local - IOM :  Réseaux sans fil pour l'IoT",
             "teacher": "Nicolas Fortino",
-            "average": "Pas de moyenne disponible",
+            "average": "10 (calculée)",
             "grades": [
                 [
-                    "Séance N°1 - Séance N°1",
+                    "Séance N°1 - DS",
+                    [
+                        "10",
+                        "0.6"
+                    ]
+                ],
+                [
+                    "Séance N°2 - TP",
+                    [
+                        "Résultats non publiés"
+                    ]
+                ],
+                [
+                    "Séance N°3 - séance",
                     [
                         "Résultats non publiés"
                     ]
                 ]
             ],
-            "empty": "empty"
+            "empty": ""
         },
         {
             "name": "Code ECUE TBRAR413 : R4.Local -  DevCloud: Introduction aux microservices",
@@ -454,35 +473,35 @@
         {
             "name": "Code UE TBRAU41 : UE41 Administrer les réseaux et l'Internet",
             "teacher": "Pas de prof",
-            "average": "7.084",
+            "average": "8.44",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU42 : UE42 Connecter les entreprises et les usagers",
             "teacher": "Pas de prof",
-            "average": "7.317",
+            "average": "8.801",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU43 : UE43 Créer des outils et applications informatiques",
             "teacher": "Pas de prof",
-            "average": "6.064",
+            "average": "7.783",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU44 : UE44 Administrer un système d'information sécurisé",
             "teacher": "Pas de prof",
-            "average": "10.137",
+            "average": "10.829",
             "grades": [],
             "empty": "empty"
         },
         {
             "name": "Code UE TBRAU45 : UE45  Surveiller un système d'information sécurisé",
             "teacher": "Pas de prof",
-            "average": "10.012",
+            "average": "10.845",
             "grades": [],
             "empty": "empty"
         }
